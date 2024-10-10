@@ -1,0 +1,26 @@
+.container-fluide{
+    height:90vh;
+    width: 100vw;
+    background-image: url(/src/assets/baker3.jpeg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-text{
+    color:rgb(32,163,158);
+    font-family:"DM Sans", sans-serif;
+}
+.nav-link{
+    font-family:"DM Sans", sans-serif;   
+}
+.navbar-brand{
+    font-family:"DM Sans", sans-serif; 
+    font-weight: 900;
+}
+.text-btn{
+    font-family:"DM Sans", sans-serif; 
+
+}
+.contact-btn{
+    margin-right:10px;
+}
